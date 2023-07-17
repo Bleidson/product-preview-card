@@ -12,7 +12,7 @@
     
     /*Font Size*/
 
-    --font-size-1: 16px;
+    --font-size-1: 14px;
 
     /*Font Family*/
 
@@ -64,7 +64,7 @@ article h1{
     font-family: var(--font-family-1);
     margin-bottom: 20px;
     color: var(--cor-03);
-    font-size: 42px;
+    
 }
 
 article p{
