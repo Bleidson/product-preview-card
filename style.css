@@ -12,7 +12,7 @@
     
     /*Font Size*/
 
-    --font-size-1: 14px;
+    --font-size-1: 16px;
 
     /*Font Family*/
 
@@ -64,6 +64,7 @@ article h1{
     font-family: var(--font-family-1);
     margin-bottom: 20px;
     color: var(--cor-03);
+    font-size: 42px;
 }
 
 article p{
@@ -81,7 +82,7 @@ article p{
 }
 
 .new-price{
-    font-size:xx-large;
+    font-size:42px;
     font-family: var(--font-family-1);
     color: var(--cor-01);
     
@@ -120,7 +121,8 @@ svg{
         display: flex;
         flex-direction: row;
         width: auto;
-        max-width: 400px;
+        max-width: 600px;
+        max-height: 600px;
     }
     .img{
         flex:1;
