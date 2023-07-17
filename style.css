@@ -64,7 +64,8 @@ article h1{
     font-family: var(--font-family-1);
     margin-bottom: 20px;
     color: var(--cor-03);
-    width: 150px;
+    font-size: 36px;
+    font-weight: 700;
 }
 
 article p{
@@ -121,8 +122,8 @@ svg{
         display: flex;
         flex-direction: row;
         width: auto;
-        max-width: 550px;
-        max-height: 400px;
+        max-width: 600px;
+        max-height: 500px;
     }
     .img{
         flex:1;
