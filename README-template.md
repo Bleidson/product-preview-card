@@ -56,9 +56,9 @@ Descktop Version
 
 
 ```css
-@media (min-width: 1440px){
+@media (){
     
-    }
+}
 ```
 
 
@@ -72,6 +72,6 @@ I used this project to test my knowledge with HTML & CSS, because I wasn't feeli
 
 ## Author
 
-- Portfolio - [Add your name here](https://bleidson.github.io)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Bleidson)
-- Instagram - [@yourusername](https://www.instagram.com/devbpn)
+- Portfolio - [Bleidson Pereira](https://bleidson.github.io)
+- Frontend Mentor - [@Bleidson](https://www.frontendmentor.io/profile/Bleidson)
+- Instagram - [@devbpn](https://www.instagram.com/devbpn)
