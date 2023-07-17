@@ -120,19 +120,21 @@ svg{
         display: flex;
         flex-direction: row;
         width: auto;
-        max-width: 500px;
+        max-width: 400px;
     }
     .img{
         flex:1;
-        
+        margin-right: 20px;
     }
 
     img{
         height: 100%;
         border-radius: 10px 0px 0px 10px;
+        
     }
 
     article{
         flex: 1;
+        padding-left: 0px;
     }
 }
